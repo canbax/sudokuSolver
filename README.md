@@ -1,6 +1,6 @@
-# sudokuSolver
+# sudokuSolver JAVA
 
-backtracking algorithm vs norvig algorithm which is implemented here http://norvig.com/sudoku.html in Java
+backtracking algorithm vs norvig algorithm which is implemented here http://norvig.com/sudoku.html in python.
 
 runned both algos with hardest 95 sudoku puzzles. 
 
